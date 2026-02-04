@@ -151,7 +151,7 @@ const App: React.FC = () => {
               },
               {
                 icon: <CheckCircle className="w-10 h-10 text-rose-400" />,
-                title: "컴플라이언스 대",
+                title: "컴플라이언스 대응",
                 desc: "ISMS-P, ISO27001 등 국내외 정보보호 인증 취득을 위한 전문 컨설팅을 제공합니다."
               }
             ].map((service, idx) => (
