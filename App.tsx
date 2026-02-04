@@ -3,12 +3,12 @@ import { supabase } from './src/supabaseClient';
 import Navbar from './components/Navbar';
 import TiltCard from './components/TiltCard';
 import { 
-  Shield, 
-  Lock, 
-  Globe, 
-  Server, 
-  Cpu, 
-  Eye, 
+  Shield,
+  Lock,
+  Globe,
+  Server,
+  Cpu,
+  Eye,
   CheckCircle,
   AlertTriangle,
   ArrowRight,
