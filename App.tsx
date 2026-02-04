@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { supabase } from './src/supabaseClient';
 import Navbar from './components/Navbar';
 import TiltCard from './components/TiltCard';
 import { 
