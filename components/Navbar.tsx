@@ -32,7 +32,7 @@ const Navbar: React.FC = () => {
             <ShieldCheck className="w-6 h-6 text-white" />
           </div>
           <span className="text-2xl font-bold tracking-tight text-white">
-            NEXUS <span className="text-blue-400">SECURITY</span>
+            EDGE <span className="text-blue-400">SECURITY</span>
           </span>
         </div>
 

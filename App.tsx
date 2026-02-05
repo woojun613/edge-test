@@ -86,7 +86,7 @@ const App: React.FC = () => {
           </h1>
           
           <p className="text-lg md:text-xl text-slate-300 max-w-2xl mx-auto mb-10 leading-relaxed">
-            Nexus Security는 최첨단 AI 기술과 글로벌 위협 인텔리전스를 결합하여<br className="hidden md:block"/>
+            EDGE Security는 최첨단 AI 기술과 글로벌 위협 인텔리전스를 결합하여<br className="hidden md:block"/>
             귀하의 기업을 사이버 공격으로부터 안전하게 보호합니다.
           </p>
           
@@ -185,7 +185,7 @@ const App: React.FC = () => {
                 실시간 위협 인텔리전스
               </h2>
               <p className="text-slate-400 mb-8 leading-relaxed">
-                Nexus Security의 대시보드는 전 세계에서 수집된 위협 데이터를 실시간으로 시각화하여,
+                EDGE Security의 대시보드는 전 세계에서 수집된 위협 데이터를 실시간으로 시각화하여,
                 보안 담당자가 즉각적인 의사결정을 내릴 수 있도록 돕습니다.
               </p>
               
@@ -284,7 +284,7 @@ const App: React.FC = () => {
         <div className="max-w-4xl mx-auto px-6 relative z-10 text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">보안 위협, 지금 진단하세요</h2>
           <p className="text-slate-300 mb-10 text-lg">
-            초기 상담은 무료로 진행됩니다. Nexus Security의 전문가 팀이<br/>
+            초기 상담은 무료로 진행됩니다. EDGE Security의 전문가 팀이<br/>
             귀사의 보안 상태를 점검하고 맞춤형 로드맵을 제시해 드립니다.
           </p>
           
@@ -323,7 +323,7 @@ const App: React.FC = () => {
             <div className="col-span-1 md:col-span-2">
               <div className="flex items-center gap-2 mb-4">
                 <Shield className="w-6 h-6 text-blue-500" />
-                <span className="text-xl font-bold text-white">NEXUS SECURITY</span>
+                <span className="text-xl font-bold text-white">EDGE SECURITY</span>
               </div>
               <p className="text-sm leading-relaxed max-w-xs">
                 서울시 강남구 테헤란로 123 넥서스 타워 15층<br/>
